@@ -1,0 +1,9 @@
+html{
+    height: 576px;
+    width: 640px;
+  }
+body{
+    background-image: url("assets/politico.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
